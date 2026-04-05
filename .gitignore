@@ -1,0 +1,11 @@
+credentials.json
+token.json
+*.pyc
+__pycache__/
+videolar/*.mp4
+animasyonlar/*.mp4
+muzik/*.mp3
+muzik/*.wav
+thumbnails/*.jpg
+gecici/
+.DS_Store
